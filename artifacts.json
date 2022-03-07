@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/RuojiaTao/artifact-directory-template.git",
+    "project-repository": "https://github.com/RuojiaTao/Covid-Misinformation-Spread-on-Tweets.git",
+    "dockerhub-repository": "ruojiatao/misinformation_midquarter",
+    "project-website-url": "https://ruojiatao.github.io/Covid-Misinformation-Spread-on-Tweets/",
+    "project-website-code": "https://github.com/RuojiaTao/Covid-Misinformation-Spread-on-Tweets.git"
 }
